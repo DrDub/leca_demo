@@ -1,0 +1,11 @@
+document_id,country,title,digitization_method,source_id,source_url,created
+1,USA,Common Core State Standards for Mathematics,data_import,CCSSM,http://www.corestandards.org/Math/,2019-10-10 19:07:14.541000+00:00
+2,USA,Next Generation Science Standards,data_import,NGSS,https://www.nextgenscience.org/sites/default/files/NGSS%20DCI%20Combined%2011.6.13.pdf,2019-10-10 19:07:41.822000+00:00
+6,Australia,Australia Work Studies F-10,data_import,australia_standards_australia_work_studies_f-10,,2019-10-10 19:08:58.831000+00:00
+5,Australia,Technologies F-10,data_import,australia_standards_technologies_f-10,,2019-10-10 19:08:52.631000+00:00
+4,Australia,Australia Mathematics F-10,data_import,australia_standards_australia_mathematics_f-10,,2019-10-10 19:08:49.031000+00:00
+3,Australia,Australia Science F-10,data_import,australia_standards_australia_science_f-10,,2019-10-10 19:08:44.109000+00:00
+8,USA,California Career Technical Education,data_import,CA-CTE,https://www.cde.ca.gov/ci/ct/,2019-10-13 21:19:11.626000+00:00
+7,USA,Khan Academy Curriculum,data_import,khan_academy_us,,2019-10-13 21:05:45.189000+00:00
+13,Zambia,Zambia English syllabus and competencies,scan_manual,zambia-english-5to7,,2019-10-17 23:14:26.445063+00:00
+10,Zambia,Mathematics syllabus and competencies,scan_manual,zambia-math-5to7,,2019-10-17 22:25:02.649442+00:00

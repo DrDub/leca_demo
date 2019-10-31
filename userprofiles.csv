@@ -1,0 +1,24 @@
+id,background,subject_areas
+2,instructional_designer,"Mathematics,Physics,Chemistry,Biology,Computers and Technology,Engineering,Music,Languages"
+3,developer,"Computers and Technology,Engineering"
+7,designer,Computers and Technology
+8,developer,
+9,curriculum,Languages
+10,other,"Biology,Computers and Technology,Business"
+11,designer,"Arts,Mathematics,Physics,Chemistry,Biology,Computers and Technology,Engineering,Music,Languages,Business"
+12,curriculum,Languages
+13,instructional_designer,Computers and Technology
+14,instructional_designer,Mathematics
+16,content_expert,"Arts,Computers and Technology,Languages,Business"
+17,instructional_designer,Business
+18,other,"Arts,Mathematics,Physics,Chemistry,Biology,Computers and Technology,Engineering,Music,Languages,Business"
+21,designer,"Computers and Technology,Engineering"
+5,developer,"Computers and Technology,Languages"
+23,other,Business
+25,other,"Biology,Computers and Technology"
+26,other,
+27,teacher,Mathematics
+28,teacher,Mathematics
+29,teacher,"Mathematics,Computers and Technology"
+30,other,"Mathematics,Physics,Computers and Technology,Engineering,Business"
+32,teacher,Arts
